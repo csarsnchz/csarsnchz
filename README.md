@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm César Sánchez</h1>
 <h3 align="center">🚀 Solutions Architect | Technical Team Leader | AI Enthusiast 🌟 Building Tech Solutions | Leading Teams | Embracing AI</h3>
