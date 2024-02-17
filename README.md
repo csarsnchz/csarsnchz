@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csarsnchz&label=Profile%20views&color=0e75b6&style=flat" alt="csarsnchz" /> </p>
 
-<p>https://github-readme-streak-stats.herokuapp.com/?user=your-github-username</p>
+<p>[https://github-readme-streak-stats.herokuapp.com/?user=your-github-username](https://github-readme-streak-stats.herokuapp.com/?user=csarsnchz)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
