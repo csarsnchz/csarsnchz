@@ -48,4 +48,18 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/csarsnchz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/csarsnchz/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Tech Stack:</h3>
+<h4 align="center">Backend</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,idea,maven,java,spring,jenkins,kubernetes,docker" />
+  </a>
+</p>
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,angular,react,nodejs,js,ts,bootstrap,css,ansible,jenkins,kubernetes,docker" />
+  </a>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csarsnchz&show_icons=true&locale=en&layout=compact" alt="csarsnchz" /></p>
