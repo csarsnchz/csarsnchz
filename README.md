@@ -52,7 +52,7 @@
 <h4 align="center">Backend</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,idea,maven,java,spring,jenkins,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=git,idea,maven,java,spring,express,jenkins,kubernetes,docker" />
   </a>
 </p>
 <h4 align="center">Frontend</h4>
